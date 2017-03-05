@@ -3,4 +3,4 @@
 ToDo:
 - Decide on project
 - Do stuff
-- Fly me to the Mars
+- Fly to Mars
